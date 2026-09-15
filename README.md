@@ -84,14 +84,6 @@ I'm currently focused on improving my knowledge in:
 
 ---
 
-## 📊 GitHub Stats
-
-![Killandio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KillandioDantas&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KillandioDantas&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to exchanging ideas, learning from other developers, and collaborating on interesting projects.
