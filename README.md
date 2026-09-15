@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Killandio Dantas
 
-Information Systems student focused on building a strong foundation in software development and continuously expanding my knowledge in technology.
+I'm an Information Systems student interested in software development and in understanding how different areas of technology connect.
 
-I'm currently exploring **backend development, full-stack development, artificial intelligence, cybersecurity, and database systems**.
+I'm currently exploring **backend development, full-stack development, artificial intelligence, cybersecurity, and database systems** while building a stronger foundation through academic work, personal study, and practical projects.
 
 ---
 
@@ -10,10 +10,10 @@ I'm currently exploring **backend development, full-stack development, artificia
 
 - 🎓 Information Systems student
 - 💻 Interested in software development and computer science
-- 🔧 Currently improving my skills through academic and personal projects
-- 🧠 Exploring different areas of technology before choosing a specialization
-- 🚀 Interested in building practical solutions and understanding how systems work
-- 📚 Always looking to learn new technologies, concepts, and development practices
+- 🧠 Currently exploring different areas of technology before choosing a specialization
+- 🔧 Building experience through academic projects, programming exercises, and personal study
+- 📚 Focused on improving my understanding of software development, databases, development tools, and good engineering practices
+- 🚀 Interested in learning how systems are designed, built, and maintained
 
 ---
 
@@ -29,10 +29,12 @@ I'm currently exploring **backend development, full-stack development, artificia
 ### Backend & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
@@ -55,17 +57,17 @@ I'm currently exploring **backend development, full-stack development, artificia
 
 ## 🚀 Projects
 
-### 🎵 MiniSpotify
+### 🎵 [MiniSpotify](https://github.com/KillandioDantas/minispotify)
 
-A personal project developed to practice software development concepts and apply programming knowledge in a practical application.
+Academic backend project developed with **Java, Spring Boot, JPA/Hibernate, and MySQL**.
 
-> More details will be added as the project is restored and updated.
+The project was created to practice backend development concepts, persistence, layered architecture, CRUD operations, and relationships between database entities.
 
-### 🐍 Python Studies
+### 🐍 [CursoEmVideo-Python](https://github.com/KillandioDantas/CursoEmVideo-Python)
 
-A repository containing exercises and studies from my Python learning journey.
+Repository containing my solutions and implementations for exercises from the **Python 3 course by Curso em Vídeo**.
 
-> Focused on practicing programming logic, syntax, and problem-solving.
+It documents part of my learning process with Python, programming logic, control structures, data structures, functions, and problem-solving.
 
 ---
 
@@ -74,10 +76,11 @@ A repository containing exercises and studies from my Python learning journey.
 I'm currently focused on improving my knowledge in:
 
 - Backend development
-- Database design
+- Database design and modeling
 - APIs
 - Git and GitHub workflows
 - Docker and development environments
+- Software development practices
 
 ---
 
@@ -100,7 +103,7 @@ I'm currently focused on improving my knowledge in:
 
 I'm always open to exchanging ideas, learning from other developers, and collaborating on interesting projects.
 
-For now, the best way to follow my work is here on GitHub.
+For now, you can follow my work here on GitHub.
 
 ---
 
