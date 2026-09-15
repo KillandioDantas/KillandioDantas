@@ -86,16 +86,9 @@ I'm currently focused on improving my knowledge in:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=KillandioDantas&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillandioDantas&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
+![Killandio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KillandioDantas&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KillandioDantas&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
